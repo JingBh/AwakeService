@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_running">服务运行中</string>
+    <string name="settings">设置</string>
+    <string name="service_running_intro">屏幕将保持点亮。</string>
+    <string name="no_permission">没有足够的权限</string>
+    <string name="under_construction">显然，这里的 UI 还没做完。</string>
+</resources>

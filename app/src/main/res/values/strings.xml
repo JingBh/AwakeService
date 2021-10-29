@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Awake Service</string>
+    <string name="service_running">Service Running</string>
+    <string name="settings">Settings</string>
+    <string name="service_running_intro">Screen will keep turned on.</string>
+    <string name="no_permission">Not enough permissions</string>
+    <string name="under_construction">Obviously, the UI here isn\'t done yet.</string>
+</resources>
